@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+PyPDF2
+langchain
+openai
+deep-translator
+reportlab
